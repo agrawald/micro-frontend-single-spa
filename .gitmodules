@@ -1,6 +1,6 @@
 [submodule "container"]
 	path = container
-	url = ./container
+	url = https://github.com/agrawald/mf-container.git
 [submodule "tasks"]
 	path = tasks
 	url = ./tasks

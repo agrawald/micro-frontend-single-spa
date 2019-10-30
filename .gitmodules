@@ -1,0 +1,12 @@
+[submodule "container"]
+	path = container
+	url = ./container
+[submodule "tasks"]
+	path = tasks
+	url = ./tasks
+[submodule "navbar"]
+	path = navbar
+	url = ./navbar
+[submodule "notifications"]
+	path = notifications
+	url = ./notifications

@@ -1,12 +1,15 @@
-[submodule "container"]
-	path = container
+[submodule "ma-container"]
+	path = ma-container
 	url = https://github.com/agrawald/mf-container.git
-[submodule "tasks"]
-	path = tasks
+[submodule "ma-tasks"]
+	path = ma-tasks
 	url = https://github.com/agrawald/mf-tasks.git
-[submodule "navbar"]
-	path = navbar
+[submodule "ma-navbar"]
+	path = ma-navbar
 	url = https://github.com/agrawald/mf-navbar.git
-[submodule "notifications"]
-	path = notifications
+[submodule "ma-notifications"]
+	path = ma-notifications
 	url = https://github.com/agrawald/mf-notifications.git
+[submodule "ms-notifications"]
+	path = ms-notifications
+	url = https://github.com/agrawald/ms-notifications.git

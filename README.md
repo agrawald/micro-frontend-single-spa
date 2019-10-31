@@ -16,11 +16,11 @@ This repositoy is a strucvtured as `git submodules`, following are the sub modul
 
 This is a `spring-boot` based backend application which is used to expose the following two REST APIs
 
-#### /notifications
+#### GET /notifications
 
 This API will be used to get all the notifications.
 
-#### /template?scope=\<admin or user\>
+#### GET /template?scope=\<admin or user\>
 
 This API will use scope to provide customized template which will show menu items in navbar on the UI.
 

@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "./infrastructure"
+		},
+		{
+			"path": "./lib-commons"
+		},
+		{
+			"path": "./ms-notifications"
+		},
+		{
+			"path": "./ms-tasks"
+		},
+		{
+			"path": "./ma-tasks"
+		},
+		{
+			"path": "./ma-navbar"
+		},
+		{
+			"path": "./ms-container"
+		},
+		{
+			"path": "./ma-notifications"
+		}
+	],
+	"settings": {}
+}

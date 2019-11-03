@@ -13,3 +13,12 @@
 [submodule "ms-notifications"]
 	path = ms-notifications
 	url = https://github.com/agrawald/ms-notifications.git
+[submodule "ms-notifications"]
+	path = ms-tasks
+	url = https://github.com/agrawald/ms-tasks.git
+[submodule "lib-commons"]
+	path = lib-commons
+	url = https://github.com/agrawald/lib-commons.git
+[submodule "infrastructure"]
+	path = lib-commons
+	url = https://github.com/agrawald/infrastructure.git

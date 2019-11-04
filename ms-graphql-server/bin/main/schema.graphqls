@@ -1,0 +1,7 @@
+type Query {
+    allNotifications: [Notification]
+}
+
+type Notification {
+    text: String
+}

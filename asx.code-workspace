@@ -7,23 +7,28 @@
 			"path": "./lib-commons"
 		},
 		{
-			"path": "./ms-notifications"
-		},
-		{
-			"path": "./ms-tasks"
-		},
-		{
 			"path": "./ma-tasks"
 		},
 		{
 			"path": "./ma-navbar"
 		},
 		{
-			"path": "./ms-container"
+			"path": "./ma-notifications"
 		},
 		{
-			"path": "./ma-notifications"
+			"path": "./ma-container"
+		},
+		{
+			"path": "ms-graphql-server"
+		},
+		{
+			"path": "./ms-notifications"
+		},
+		{
+			"path": "./ms-tasks"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
 }

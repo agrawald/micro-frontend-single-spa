@@ -3,6 +3,14 @@
 
 A proof of concept using `single-spa` to implemented the micro-frontend architecture where all the micro-apps are running on seperates servers and has seperate code base.
 
+# git cloning
+
+```sh
+git clone https://github.com/agrawald/micro-frontend-single-spa
+cd micro-frontend-single-spa
+git submodule update --init --recursive
+```
+
 ## legend
 
 - ms - back-end `spring-boot` micro-service to expose some REST API
